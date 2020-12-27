@@ -16,7 +16,7 @@ hunter_add_version(
     URL
     "https://github.com/twyleg/xerces-c/archive/hunter-3.2.3.tar.gz"
     SHA1
-    b0e3982731ae7effd9d9a7028600f3dd069cbc1d
+    5d0b49a35987ea465b67e9293464be30d0a4a08d
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
